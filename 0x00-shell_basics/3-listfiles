@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
 ls -l
+=======
+#!/bin/bush
+ls -s
+>>>>>>> 4feedda17e0f6eee0862de07f4299e803bcd3a85
